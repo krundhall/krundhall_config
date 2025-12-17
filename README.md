@@ -16,13 +16,17 @@ This is a **local VS Code theme extension**, not a Marketplace package.
 
 1. Clone this repository
 2. Copy the theme folder to your VS Code extensions directory:
+```
 %USERPROFILE%.vscode\extensions\borderless-void-theme
+```
 
 The folder structure should look like:
+```
 borderless-void-theme/
 ├─ package.json
 └─ themes/
 └─ borderless-void-color-theme.json
+```
 
 3. Restart VS Code
 4. Open Command Palette → **Preferences: Color Theme**
@@ -34,7 +38,9 @@ borderless-void-theme/
 
 1. Clone this repository
 2. Copy the theme folder to:
+```
 ~/.vscode/extensions/borderless-void-theme
+```
 
 3. Restart VS Code
 4. Select **Borderless Void** from the Color Theme picker
