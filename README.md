@@ -1,10 +1,10 @@
 # Borderless Void – VS Code Theme
+## Theme is created and aimed towards C++
 
-A minimal, borderless dark VS Code theme with:
-- Flat, distraction-free UI
-- Visual Studio–style C++ semantic coloring
-- No AI features, no visual noise
-- Designed to work the same on Windows and macOS
+A minimal, dark VSCode theme that aims to:
+- Create a borderless editor experience
+- Reduce "menu bloat"
+- Encourage keybinding instead of navigating with a mouse
 
 This is a **local VS Code theme extension**, not a Marketplace package.
 
