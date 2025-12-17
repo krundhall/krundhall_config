@@ -1,0 +1,85 @@
+{
+  // ===== Editor core =====
+  "editor.fontFamily": "Monaspace Neon NF, Consolas, monospace",
+  "editor.fontLigatures": false,
+  "editor.fontSize": 14,
+  "editor.lineHeight": 0,
+  "editor.lineNumbers": "on",
+  "editor.cursorBlinking": "smooth",
+  "editor.cursorSmoothCaretAnimation": "off",
+  "editor.detectIndentation": false,
+  "editor.minimap.enabled": false,
+  "editor.wordWrap": "off",
+  "editor.semanticHighlighting.enabled": true,
+  "C_Cpp.intelliSenseEngine": "default",
+
+
+
+  // ===== Editor visuals =====
+  "editor.renderLineHighlight": "none",
+  "editor.selectionHighlight": false,
+  "editor.occurrencesHighlight": "off",
+  "editor.matchBrackets": "never",
+  "editor.colorDecorators": false,
+  "editor.lightbulb.enabled": "off",
+  "editor.stickyScroll.enabled": false,
+  "editor.overviewRulerBorder": false,
+
+  // ===== Hover / popups =====
+  "editor.hover.enabled": "on",
+  "editor.hover.delay": 1500,
+  "editor.parameterHints.enabled": false,
+
+  // ===== Files =====
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+  "files.autoSave": "off",
+
+  // ===== Navigation =====
+  "breadcrumbs.enabled": false,
+  "editor.gotoLocation.multipleDefinitions": "goto",
+  "editor.gotoLocation.multipleDeclarations": "goto",
+  "editor.gotoLocation.multipleImplementations": "goto",
+  "editor.gotoLocation.multipleTypeDefinitions": "goto",
+  "editor.gotoLocation.multipleReferences": "goto",
+
+  // ===== Workbench =====
+"workbench.startupEditor": "none",
+  "workbench.tips.enabled": false,
+  "workbench.editor.enablePreview": false,
+  "workbench.editor.enablePreviewFromQuickOpen": false,
+
+  // ===== Explorer / SCM =====
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "git.decorations.enabled": false,
+  "scm.diffDecorations": "none",
+  "explorer.sortOrder": "default",
+
+
+  // ===== Noise reduction =====
+  "extensions.ignoreRecommendations": true,
+  "problems.decorations.enabled": false,
+
+  // ===== AI Disabling =====
+    "github.copilot.enable": false,
+    "github.copilot.inlineSuggest.enable": false,
+
+
+  // ===== Diff editor =====
+  "diffEditor.ignoreTrimWhitespace": false,
+  "diffEditor.renderSideBySide": false,
+  "workbench.experimental.colorThemes": [
+    {
+      "label": "Borderless Void",
+      "uiTheme": "vs-dark",
+      "path": "C:\\Users\\Kevin\\.vscode\\themes\\borderless-void-color-theme.json"
+    }
+],
+"security.workspace.trust.untrustedFiles": "open",
+"workbench.colorTheme": "Borderless Void",
+"workbench.activityBar.location": "top",
+"chat.disableAIFeatures": true,
+"workbench.iconTheme": "material-icon-theme"
+}

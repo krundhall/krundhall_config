@@ -1,0 +1,20 @@
+{
+  "name": "borderless-void-theme",
+  "displayName": "Borderless Void",
+  "description": "A flat, borderless, true-dark VS Code theme.",
+  "version": "0.0.1",
+  "publisher": "kevin-local",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Borderless Void",
+        "uiTheme": "vs-dark",
+        "path": "./themes/borderless-void-color-theme.json"
+      }
+    ]
+  }
+}
