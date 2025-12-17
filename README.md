@@ -54,7 +54,3 @@ borderless-void-theme/
 - This repo is meant to be copied/cloned, not installed via the Marketplace.
 
 ---
-
-## License
-
-Do whatever you want with it *<|: ^)
